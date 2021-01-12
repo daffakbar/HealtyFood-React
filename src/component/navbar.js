@@ -42,7 +42,7 @@ const Navbar = () => {
               <a class="inline-block px-4 py-2 text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}">Contact us</a>
             </li>
             <li class="mr-3">
-              <a class="inline-block px-4 py-2 text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}"><img src="/img/icon-basket.png" width="24" alt="" ></img></a>
+              <a class="inline-block px-4 py-2 text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}"><img src="img/icon-basket.png" width="24" alt="" ></img></a>
             </li>
             <li class="mr-3">
             <Nav/>
