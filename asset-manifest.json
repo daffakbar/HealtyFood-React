@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HealtyFood-React/static/css/main.77719961.chunk.css",
+    "main.js": "/HealtyFood-React/static/js/main.1ed1db56.chunk.js",
+    "main.js.map": "/HealtyFood-React/static/js/main.1ed1db56.chunk.js.map",
+    "runtime-main.js": "/HealtyFood-React/static/js/runtime-main.3d9b4ad1.js",
+    "runtime-main.js.map": "/HealtyFood-React/static/js/runtime-main.3d9b4ad1.js.map",
+    "static/js/2.142d9376.chunk.js": "/HealtyFood-React/static/js/2.142d9376.chunk.js",
+    "static/js/2.142d9376.chunk.js.map": "/HealtyFood-React/static/js/2.142d9376.chunk.js.map",
+    "static/js/3.d94e9dcd.chunk.js": "/HealtyFood-React/static/js/3.d94e9dcd.chunk.js",
+    "static/js/3.d94e9dcd.chunk.js.map": "/HealtyFood-React/static/js/3.d94e9dcd.chunk.js.map",
+    "index.html": "/HealtyFood-React/index.html",
+    "static/css/main.77719961.chunk.css.map": "/HealtyFood-React/static/css/main.77719961.chunk.css.map",
+    "static/js/2.142d9376.chunk.js.LICENSE.txt": "/HealtyFood-React/static/js/2.142d9376.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9b4ad1.js",
+    "static/js/2.142d9376.chunk.js",
+    "static/css/main.77719961.chunk.css",
+    "static/js/main.1ed1db56.chunk.js"
+  ]
+}
