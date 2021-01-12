@@ -28,7 +28,7 @@ export default class Content extends React.Component {
           </div>
           
           <div class="flex justify-end w-full py-6 md:w-4/6 ">
-            <img src="/img/food.jpg" class="w-full imgm md:w-4/5 " />
+            <img src="img/food.jpg" class="w-full imgm md:w-4/5 " />
           </div>
         </div>
       </div>
