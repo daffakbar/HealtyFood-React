@@ -1,15 +1,16 @@
 import React from 'react';
 import Nav from './Nav'
-
+import salad from '../img/salad.png'
+import basket from '../img/icon-basket.png'
 const Navbar = () => {
     
     return(
         <div className="bg-green-500 ">
-           <nav id="" class="  fixed top-0 z-30 w-full text-black dark:bg-gray-700 scroll1 transition duration-700 ">
+           <nav id="" class="  fixed top-0 z-30 w-full text-black dark:bg-gray-800 scroll1 transition duration-700 bg-gray-50 ">
       <div class="container  flex flex-wrap items-center justify-between w-full py-2 mx-auto mt-0 transition duration-700 ">
         <div class="flex items-center pl-4 ">
           <a class="text-xs font-bold text-black dark:text-gray-50 no-underline toggleColour hover:no-underline lg:text-4xl" href="{#}" >
-            <img src="img/salad.png" alt="" width="42" srcset="" class="inline"></img> <span class="text-2xl ">HEALTHY FOOD</span>  
+            <img src={salad} alt="" width="42" srcset="" class="inline"></img> <span class="text-2xl ">HEALTHY FOOD</span>  
             
           </a>
         </div>
@@ -24,7 +25,7 @@ const Navbar = () => {
         <div class="z-20 flex-grow hidden w-full p-4 mt-2 text-white lg:flex lg:items-center lg:w-auto lg:mt-0 lg:bg-transparent lg:p-0" id="nav-content">
           <ul class="items-center justify-end flex-1 list-reset lg:flex">
             <li class="mr-3">
-              <a class="inline-block px-4 py-2 text-xl font-bold no-underline  text-pinkred " href="{#}">Home</a>
+              <a class="inline-block px-4 py-2 text-xl font-bold no-underline  text-pinkred dark:text-pinkcard " href="{#}">Home</a>
             </li>
             <li class="mr-3">
               <a class="inline-block px-4 py-2 text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}">Catering</a>
@@ -42,7 +43,7 @@ const Navbar = () => {
               <a class="inline-block px-4 py-2 text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}">Contact us</a>
             </li>
             <li class="mr-3">
-              <a class="inline-block px-4 py-2 text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}"><img src="img/icon-basket.png" width="24" alt="" ></img></a>
+              <a class="flex items-center justify-center w-10 h-10 rounded-full dark:bg-pinkcard shadow-lg cursor-pointer   text-black no-underline dark:text-gray-50 hover:text-pinkred hover:text-underline" href="{#}"><img src={basket} width="24" alt="" ></img></a>
             </li>
             <li class="mr-3">
             <Nav/>

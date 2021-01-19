@@ -449,9 +449,14 @@ img {
   background-color: rgba(55, 65, 81, var(--tw-bg-opacity));
 }
 
+.dark .dark\:bg-gray-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+}
+
 .dark .dark\:bg-pinkcard {
   --tw-bg-opacity: 1;
-  background-color: rgba(128, 19, 54, var(--tw-bg-opacity));
+  background-color: rgba(95, 185, 176, var(--tw-bg-opacity));
 }
 
 .dark .dark\:bg-darkaddcard {
@@ -904,6 +909,11 @@ img {
 .dark .dark\:text-gray-500 {
   --tw-text-opacity: 1;
   color: rgba(107, 114, 128, var(--tw-text-opacity));
+}
+
+.dark .dark\:text-pinkcard {
+  --tw-text-opacity: 1;
+  color: rgba(95, 185, 176, var(--tw-text-opacity));
 }
 
 .uppercase {

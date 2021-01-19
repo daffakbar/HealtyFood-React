@@ -9,7 +9,7 @@ module.exports = {
       colors: {
         'pinkred' : '#FF5B5B',
         'pinklight' : '#ffecec',
-        'pinkcard' : '#801336',
+        'pinkcard' : '#5fb9b0',
         'darkaddcard' : '#2d132c',
         'darksect3' : '#2e394a',
         'darkfooter' : '#243040',

@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-
+import imgContent from '../img/food.jpg'
 export default class Content extends React.Component {
 
   
@@ -8,12 +8,12 @@ export default class Content extends React.Component {
   render() {
     return (
  <div>
-        <div className="pt-24 transition duration-700 dark:bg-gray-700 dark:text-gray-500">
+        <div className="pt-24 transition duration-700 dark:bg-gray-800 dark:text-gray-500">
         <div class="container  flex flex-col flex-wrap items-center px-3 mx-auto md:flex-row ">
           
           <div class="flex flex-col items-start justify-center w-full text-center md:w-2/6 md:text-left ">
             <h1 class="my-4 text-5xl font-bold leading-tight scroll2 dark:text-gray-100 ">
-              Fresh healthy <p></p><span class="text-pinkred ">Delicious </span>food
+              Fresh healthy <p></p><span class="text-pinkred dark:text-pinkcard ">Delicious </span>food
             </h1>
             <p class="mb-8 text-xl leading-normal scroll2 dark:text-gray-200">
               Provides a menu with a healthy lifestyle concept with delicious taste.
@@ -28,7 +28,7 @@ export default class Content extends React.Component {
           </div>
           
           <div class="flex justify-end w-full py-6 md:w-4/6 ">
-            <img src="img/food.jpg" class="w-full imgm md:w-4/5 " />
+            <img src={imgContent} class="w-full imgm md:w-4/5 " />
           </div>
         </div>
       </div>
