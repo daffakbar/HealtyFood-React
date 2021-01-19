@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/HealtyFood-React/static/css/main.77719961.chunk.css",
-    "main.js": "/HealtyFood-React/static/js/main.0e5c33b1.chunk.js",
-    "main.js.map": "/HealtyFood-React/static/js/main.0e5c33b1.chunk.js.map",
-    "runtime-main.js": "/HealtyFood-React/static/js/runtime-main.3d9b4ad1.js",
-    "runtime-main.js.map": "/HealtyFood-React/static/js/runtime-main.3d9b4ad1.js.map",
-    "static/js/2.142d9376.chunk.js": "/HealtyFood-React/static/js/2.142d9376.chunk.js",
-    "static/js/2.142d9376.chunk.js.map": "/HealtyFood-React/static/js/2.142d9376.chunk.js.map",
-    "static/js/3.d94e9dcd.chunk.js": "/HealtyFood-React/static/js/3.d94e9dcd.chunk.js",
-    "static/js/3.d94e9dcd.chunk.js.map": "/HealtyFood-React/static/js/3.d94e9dcd.chunk.js.map",
+    "main.css": "/HealtyFood-React/static/css/main.da623ac6.chunk.css",
+    "main.js": "/HealtyFood-React/static/js/main.7f661e55.chunk.js",
+    "main.js.map": "/HealtyFood-React/static/js/main.7f661e55.chunk.js.map",
+    "runtime-main.js": "/HealtyFood-React/static/js/runtime-main.873d60a5.js",
+    "runtime-main.js.map": "/HealtyFood-React/static/js/runtime-main.873d60a5.js.map",
+    "static/js/2.1443057e.chunk.js": "/HealtyFood-React/static/js/2.1443057e.chunk.js",
+    "static/js/2.1443057e.chunk.js.map": "/HealtyFood-React/static/js/2.1443057e.chunk.js.map",
+    "static/js/3.e03dabf9.chunk.js": "/HealtyFood-React/static/js/3.e03dabf9.chunk.js",
+    "static/js/3.e03dabf9.chunk.js.map": "/HealtyFood-React/static/js/3.e03dabf9.chunk.js.map",
     "index.html": "/HealtyFood-React/index.html",
-    "static/css/main.77719961.chunk.css.map": "/HealtyFood-React/static/css/main.77719961.chunk.css.map",
-    "static/js/2.142d9376.chunk.js.LICENSE.txt": "/HealtyFood-React/static/js/2.142d9376.chunk.js.LICENSE.txt"
+    "static/css/main.da623ac6.chunk.css.map": "/HealtyFood-React/static/css/main.da623ac6.chunk.css.map",
+    "static/js/2.1443057e.chunk.js.LICENSE.txt": "/HealtyFood-React/static/js/2.1443057e.chunk.js.LICENSE.txt",
+    "static/media/Available_on_the_App_Store_(black).acebdf4f.png": "/HealtyFood-React/static/media/Available_on_the_App_Store_(black).acebdf4f.png",
+    "static/media/food-ordering-app1.66363b34.jpg": "/HealtyFood-React/static/media/food-ordering-app1.66363b34.jpg",
+    "static/media/food.941812ee.jpg": "/HealtyFood-React/static/media/food.941812ee.jpg",
+    "static/media/salad.82936fbb.png": "/HealtyFood-React/static/media/salad.82936fbb.png",
+    "static/media/star.de82f684.svg": "/HealtyFood-React/static/media/star.de82f684.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d9b4ad1.js",
-    "static/js/2.142d9376.chunk.js",
-    "static/css/main.77719961.chunk.css",
-    "static/js/main.0e5c33b1.chunk.js"
+    "static/js/runtime-main.873d60a5.js",
+    "static/js/2.1443057e.chunk.js",
+    "static/css/main.da623ac6.chunk.css",
+    "static/js/main.7f661e55.chunk.js"
   ]
 }
